@@ -352,4 +352,11 @@
       </plugin>
     </plugins>
   </reporting>
+  <pluginRepositories>
+    <pluginRepository>
+      <id>maven.seasar.org</id>
+      <name>The Seasar Foundation Maven2 Repository</name>
+      <url>https://www.seasar.org/maven/maven2/</url>
+    </pluginRepository>
+  </pluginRepositories>
 </project>
